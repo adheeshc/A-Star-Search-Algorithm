@@ -11,5 +11,5 @@ C++ implementation
 
 ### Run Instructions
 
-1. create board file or use existing 1.board
+1. Create board file or use existing 1.board
 2. Run main.cpp
