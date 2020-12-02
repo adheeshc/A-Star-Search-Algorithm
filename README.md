@@ -1,7 +1,12 @@
 # A-Star-Search-Algorithm
 C++ implementation
 
-- <b>Output</b>
+
 <p align="center">
-  <img src="/Images/output.png" alt="wall">
+	<b>Output</b>
+	<img src="/Images/output.png" alt="wall">
 </p>
+
+#### Run Instructions
+
+1. Run main.cpp
